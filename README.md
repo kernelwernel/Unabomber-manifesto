@@ -60,7 +60,7 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support a
 | 28 | Notes | N/A |
 
 ## Contributing
-If you find any errors, misplacements, wrong syntaxing, typos, missing paragraphs, Out of place sections, etc... Please create a pull request or an issue on the error you found. You can also contribute in different ways like artistically for example. It would be greatly appreciated. 
+If you find any errors, misplacements, wrong syntaxing, typos, missing paragraphs, Out of place sections, etc... Please create a pull request or an issue on the error you found. It would be greatly appreciated. 
 
 ## Links
 
