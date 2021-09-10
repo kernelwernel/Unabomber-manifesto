@@ -3,10 +3,6 @@
     <br>
     <img src="assets/banner2.jpg">
     <br>
-    <br>
-    <p>
-        The full manifesto of Ted Kaczynski aka the Unabomber titled "Industrial Society and Its Future" all in LaTeX
-    </p>
 </div>
 
 ## Context
