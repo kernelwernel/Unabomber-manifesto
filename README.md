@@ -20,7 +20,7 @@
 \- *From [Wikipedia](https://en.wikipedia.org/wiki/Unabomber_Manifesto)*
 
 ## Disclaimer
-I am not praising Ted Kaczynski nor do I support his actions. I do not support a human being who killed 3 innocent people while injuring 23 others. I'm only creating this repository because I admire his philosophy on technology. I do not claim to write any of what is presented in this repository, I'm only presenting it.
+I am not praising Ted Kaczynski nor do I support his actions. I do not support a human being who killed 3 innocent people while injuring 23 others. I'm only creating this repository because I admire his philosophy on technology. 
 
 ## Table of contents
 
@@ -56,7 +56,17 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support a
 | 28 | Notes | N/A |
 
 ## Contributing
-If you find any errors, misplacements, wrong syntaxing, typos, missing paragraphs, Out of place sections, etc... Please create a pull request or an issue on the error you found. It would be greatly appreciated. 
+If you find any errors, misplacements, wrong syntaxing, typos, missing paragraphs, Out of place sections, etc... Please create a pull request or an issue on the error you found. It would be greatly appreciated.
+
+## Prerequesites
+- Download MikTex ([link](https://miktex.org/download))
+
+## Build
+```bash
+cd Unabomber-manifesto
+sudo chmod +x Unabomber-manifesto
+make
+```
 
 ## Links
 
