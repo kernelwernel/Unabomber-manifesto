@@ -10,4 +10,4 @@ clean:
 	rm -f *.log
 	rm -f *.fls
 	rm -f *.fdb_latexmk
-	rm -f *.synctex.gz
+	rm -f *.synctex.gz\
