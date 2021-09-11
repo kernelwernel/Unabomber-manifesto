@@ -1,7 +1,7 @@
 <div align="center">
     <h1>Unabomber Manifesto</h1>
     <br>
-    <img src="assets/banner2.jpg">
+    <img src="assets/banners/mainbanner.jpg">
     <br>
 </div>
 
@@ -55,11 +55,15 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support a
 | 27 | Final note | 231~232 |
 | 28 | Notes | N/A |
 
-## Contributing
-If you find any errors, misplacements, wrong syntaxing, typos, missing paragraphs, Out of place sections, etc... Please create a pull request or an issue on the error you found. It would be greatly appreciated.
-
 ## Prerequesites
+- Update your system with `sudo dnf/apt/pacman update -y` depending on your distro (unless you're on windows, scrub)
 - Download MikTex ([link](https://miktex.org/download))
+- Download Git ([link](https://git-scm.com/downloads))
+
+## Download 
+```bash
+git clone https://github.com/Existential-nonce/Unabomber-manifesto
+```
 
 ## Build
 ```bash
@@ -67,6 +71,9 @@ cd Unabomber-manifesto
 sudo chmod +x Unabomber-manifesto
 make
 ```
+
+## Contributing
+If you find any errors, misplacements, wrong syntaxing, typos, missing paragraphs, Out of place sections, etc... Please create a pull request or an issue on the error you found. It would be greatly appreciated.
 
 ## Links
 
