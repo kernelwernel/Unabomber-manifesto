@@ -71,6 +71,7 @@ cd Unabomber-manifesto
 sudo chmod +x Unabomber-manifesto
 make
 ```
+After building, you should have Manifesto.pdf in the directory.
 
 ## Contributing
 If you find any errors, misplacements, wrong syntaxing, typos, missing paragraphs, Out of place sections, etc... Please create a pull request or an issue on the error you found. It would be greatly appreciated.
