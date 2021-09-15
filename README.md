@@ -90,6 +90,10 @@ git clone https://github.com/Existential-nonce/Unabomber-manifesto
 If you find any errors, misplacements, wrong syntaxing, typos, missing paragraphs, out of place sections, code optimisations etc... Please create a pull request or an issue on the error you found. It would be greatly appreciated.
 
 
+## TO DO
+[ ] Somehow figure out a way to make the compiling process compatible with windows
+
+
 ## Useful Links
 
 **Full audiobook:** https://www.youtube.com/watch?v=4TkFmmdmk50
