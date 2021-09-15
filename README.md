@@ -55,17 +55,18 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support a
 | 27 | Final note | 231~232 |
 | 28 | Notes | N/A |
 
-## Download 
-```bash
-git clone https://github.com/Existential-nonce/Unabomber-manifesto
-```
-
 
 ## Prerequesites
 - Update your system with `sudo dnf/apt/pacman/yum update -y` depending on your distro (unless you're on windows, scrub)
 - Download Perl (It should be already installed if you're using linux, their download page indicates if you have it installed so it's worth checking before skipping this part | [link](https://www.perl.org/get.html)
 - Download pip (It's not preinstalled in every distro, but it's most likely already available in yours) | [link](https://www.tecmint.com/install-pip-in-linux/)
 - Download Git | [link](https://git-scm.com/downloads)
+
+
+## Download 
+```bash
+git clone https://github.com/Existential-nonce/Unabomber-manifesto
+```
 
 
 ## Build
