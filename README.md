@@ -91,7 +91,7 @@ If you find any errors, misplacements, wrong syntaxing, typos, missing paragraph
 
 
 ## TO DO
-[ ] Somehow figure out a way to make the compiling process compatible with windows
+- [ ] Somehow figure out a way to make the compiling process compatible with windows
 
 
 ## Useful Links
