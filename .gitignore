@@ -2,8 +2,10 @@
 *.aux
 *.fdb_latexmk
 *.fls
+*.dvi
 *.log
 *.synctex(busy)
+*.synctex.gz
 
-# Main pdf
-Manifesto.pdf
+# vscode
+.vscode

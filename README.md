@@ -55,28 +55,41 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support a
 | 27 | Final note | 231~232 |
 | 28 | Notes | N/A |
 
-## Prerequesites
-- Update your system with `sudo dnf/apt/pacman update -y` depending on your distro (unless you're on windows, scrub)
-- Download MikTex ([link](https://miktex.org/download))
-- Download Git ([link](https://git-scm.com/downloads))
-
 ## Download 
 ```bash
 git clone https://github.com/Existential-nonce/Unabomber-manifesto
 ```
 
+
+## Prerequesites
+- Update your system with `sudo dnf/apt/pacman/yum update -y` depending on your distro (unless you're on windows, scrub)
+- Download Perl (It should be already installed if you're using linux, their download page indicates if you have it installed so it's worth checking before skipping this part | [link](https://www.perl.org/get.html)
+- Download pip (It's not preinstalled in every distro, but it's most likely already available in yours) | [link](https://www.tecmint.com/install-pip-in-linux/)
+- Download Git | [link](https://git-scm.com/downloads)
+
+
 ## Build
 ```bash
-cd Unabomber-manifesto
-sudo chmod +x Unabomber-manifesto
-make
+# chmod +x Unabomber-manifesto
+# cd Unabomber-manifesto
+# make
 ```
-After building, you should have Manifesto.pdf in the directory.
+
+| Command | Info |
+|---|---|
+| `make` | Basically does everything |
+| `make install` | Install latexmk.py for compiling |
+| `make compile` | Compile the Manifesto.tex file |
+| `make open` | Automatically opens the Manifesto.pdf file |
+| `make clean` | Removes all the build files such as .log, .aux etc... |
+| `make uninstall` | Uninstall latexmk.py |
+
 
 ## Contributing
-If you find any errors, misplacements, wrong syntaxing, typos, missing paragraphs, Out of place sections, etc... Please create a pull request or an issue on the error you found. It would be greatly appreciated.
+If you find any errors, misplacements, wrong syntaxing, typos, missing paragraphs, out of place sections, code optimisations etc... Please create a pull request or an issue on the error you found. It would be greatly appreciated.
 
-## Links
+
+## Useful Links
 
 **Full audiobook:** https://www.youtube.com/watch?v=4TkFmmdmk50
 
