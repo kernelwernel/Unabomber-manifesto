@@ -2,7 +2,7 @@ TEX=Manifesto
 COMPILER=latexmk.py
 
 
-all: install compile open
+all: install compile open clean
 
 install:
 	pip install $(COMPILER)
