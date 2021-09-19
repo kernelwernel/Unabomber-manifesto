@@ -5,7 +5,7 @@
     <br>
 </div>
 
-## Context
+## Context 📑
 >Industrial Society and Its Future, widely called the Unabomber Manifesto, is a 35,000 word essay by Ted Kaczynski contending that the Industrial Revolution began a harmful process of technology destroying nature, while forcing humans to adapt to machines, and creating a sociopolitical order that suppresses human freedom and potential. The manifesto formed the ideological foundation of Kaczynski's 1978–1995 mail bomb campaign, designed to protect wilderness by hastening the collapse of industrial society.
 > 
 >It was originally printed in 1995 in supplements to Washington Post and New York Times after Kaczynski offered to end his bombing campaign for national exposure. Attorney General Janet Reno authorized the printing to help the FBI identify the author. The printings and publicity around them eclipsed the bombings in notoriety, and led to Kaczynski's identification by his brother, David Kaczynski.
@@ -19,10 +19,10 @@
 >The Labadie Collection of the University of Michigan houses a copy of Industrial Society and its Future, which has been translated into French, remains on college reading lists, and was updated in Kaczynski's 2016 Anti-Tech Revolution: Why and How, which defends his political philosophy in greater depth.
 \- *From [Wikipedia](https://en.wikipedia.org/wiki/Unabomber_Manifesto)*
 
-## Disclaimer
+## Disclaimer ⚠️
 I am not praising Ted Kaczynski nor do I support his actions. I do not support a human being who killed 3 innocent people while injuring 23 others. I'm only creating this repository because I admire his philosophy on technology. 
 
-## Table of contents
+## Table of contents 📖
 
 | Section number | Title | Paragraphs |
 | --- | --- | --- |
@@ -56,20 +56,20 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support a
 | 28 | Notes | N/A |
 
 
-## Prerequesites
+## Prerequesites 🛠️
 - Update your system with `sudo dnf/apt/pacman/yum update -y` depending on your distro (unless you're on windows, scrub)
 - Download Perl (It should be already installed if you're using linux, their download page indicates if you have it installed so it's worth checking before skipping this part | [link](https://www.perl.org/get.html)
 - Download pip (It's not preinstalled in every distro, but it's most likely already available in yours) | [link](https://www.tecmint.com/install-pip-in-linux/)
 - Download Git | [link](https://git-scm.com/downloads)
 
 
-## Download 
+## Download 📥
 ```bash
 git clone https://github.com/Existential-nonce/Unabomber-manifesto
 ```
 
 
-## Build
+## Build ⚙️
 ```bash
 # chmod +x Unabomber-manifesto
 # cd Unabomber-manifesto
@@ -86,15 +86,15 @@ git clone https://github.com/Existential-nonce/Unabomber-manifesto
 | `make uninstall` | Uninstall latexmk.py |
 
 
-## Contributing
+## Contributing 🤝
 If you find any errors, misplacements, wrong syntaxing, typos, missing paragraphs, out of place sections, code optimisations etc... Please create a pull request or an issue on the error you found. It would be greatly appreciated.
 
 
-## TO DO
+## TO DO 🗒️
 - [ ] Somehow figure out a way to make the compiling process compatible with windows
 
 
-## Useful Links
+## Useful Links 🔗
 
 **Full audiobook:** https://www.youtube.com/watch?v=4TkFmmdmk50
 
