@@ -20,7 +20,7 @@
 \- *From [Wikipedia](https://en.wikipedia.org/wiki/Unabomber_Manifesto)*
 
 ## Disclaimer ⚠️
-I am not praising Ted Kaczynski nor do I support his actions. I do not support a human being who killed 3 innocent people while injuring 23 others. I'm only creating this repository because I admire his philosophy on technology. 
+I am not praising Ted Kaczynski nor do I support his actions. I do not support a human being who killed 3 innocent people while injuring 23 others. I'm only creating this repository because I admire his philosophy on technology, I'm doing it for archival reasons, and I'm doing it for accessibility to anyone wanting to read the manifesto.
 
 ## Table of contents 📖
 
@@ -58,9 +58,12 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support a
 
 ## Prerequesites 🛠️
 - Update your system with `sudo dnf/apt/pacman/yum update -y` depending on your distro (unless you're on windows, scrub)
+- Download Git | [link](https://git-scm.com/downloads)
+
+> It's recommended to compile the `.tex` file yourself (since malware can be injected in them). But if you're too lazy or if you're on windows, you can directly open the `Manifesto.pdf` in the root directory of the repository. However, if you don't want to take any risks then make sure to download the following software.
+
 - Download Perl (It should be already installed if you're using linux, their download page indicates if you have it installed so it's worth checking before skipping this part | [link](https://www.perl.org/get.html)
 - Download pip (It's not preinstalled in every distro, but it's most likely already available in yours) | [link](https://www.tecmint.com/install-pip-in-linux/)
-- Download Git | [link](https://git-scm.com/downloads)
 
 
 ## Download 📥
@@ -70,11 +73,19 @@ git clone https://github.com/Existential-nonce/Unabomber-manifesto
 
 
 ## Build ⚙️
-```bash
+
+If you want to compile the .tex file, do:
+```
 # chmod +x Unabomber-manifesto
 # cd Unabomber-manifesto
 # make
 ```
+
+If you don't want to compile it and just want to directly read the manifesto, you can simply do:
+```
+$ cd Unabomber-manifesto
+```
+
 
 | Command | Info |
 |---|---|
