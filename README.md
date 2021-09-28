@@ -20,7 +20,7 @@
 \- *From [Wikipedia](https://en.wikipedia.org/wiki/Unabomber_Manifesto)*
 
 ## Disclaimer ⚠️
-I am not praising Ted Kaczynski nor do I support his actions. I do not support a human being who killed 3 innocent people while injuring 23 others. I'm only creating this repository because I admire his philosophy on technology, I'm also doing this for archival reasons and for accessibility to anyone wanting to read the manifesto.
+I am not praising Ted Kaczynski nor do I support his actions. I do not support a human being who killed 3 innocent people while injuring 23 others. I'm only creating this repository because I admire his philosophy on technology. I'm also doing this for archival reasons and for accessibility to anyone wanting to read the manifesto.
 
 ## Table of contents 📖
 
