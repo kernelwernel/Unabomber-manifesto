@@ -84,6 +84,7 @@ If you want to compile the .tex file, do:
 If you don't want to compile it and just want to directly read the manifesto, you can simply do:
 ```
 $ cd Unabomber-manifesto
+$ make open
 ```
 
 
