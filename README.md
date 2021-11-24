@@ -14,7 +14,7 @@
 > 
 >While Americans abhorred Kaczynski's violence, his manifesto expressed ideas that continue to be commonly shared among the American public. A 2017 Rolling Stone article stated that Kaczynski was an early adopter of the concept that:
 >
-> ```"We give up a piece of ourselves whenever we adjust to conform to society's standards. That, and we're too plugged in. We're letting technology take over our lives, willingly."```
+>> ```"We give up a piece of ourselves whenever we adjust to conform to society's standards. That, and we're too plugged in. We're letting technology take over our lives, willingly."```
 > 
 >The Labadie Collection of the University of Michigan houses a copy of Industrial Society and its Future, which has been translated into French, remains on college reading lists, and was updated in Kaczynski's 2016 Anti-Tech Revolution: Why and How, which defends his political philosophy in greater depth.
 \- *From [Wikipedia](https://en.wikipedia.org/wiki/Unabomber_Manifesto)*
