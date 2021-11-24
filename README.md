@@ -1,8 +1,8 @@
 <div align="center">
-    <h1>Unabomber Manifesto</h1>
-    <br>
-    <img src="assets/banners/mainbanner.jpg">
-    <br>
+  <h1>Unabomber Manifesto</h1>
+  <br>
+  <img src="assets/banners/mainbanner.jpg">
+  <br>
 </div>
 
 ## Context 📑
@@ -14,7 +14,7 @@
 > 
 >While Americans abhorred Kaczynski's violence, his manifesto expressed ideas that continue to be commonly shared among the American public. A 2017 Rolling Stone article stated that Kaczynski was an early adopter of the concept that:
 >
->```      "We give up a piece of ourselves whenever we adjust to conform to society's standards. That, and we're too plugged in. We're letting technology take over our lives, willingly."```
+>```  "We give up a piece of ourselves whenever we adjust to conform to society's standards. That, and we're too plugged in. We're letting technology take over our lives, willingly."```
 > 
 >The Labadie Collection of the University of Michigan houses a copy of Industrial Society and its Future, which has been translated into French, remains on college reading lists, and was updated in Kaczynski's 2016 Anti-Tech Revolution: Why and How, which defends his political philosophy in greater depth.
 \- *From [Wikipedia](https://en.wikipedia.org/wiki/Unabomber_Manifesto)*
@@ -29,7 +29,7 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support a
 | 1 | Introduction | 1~5 |
 | 2 | The psychology of modern leftism | 6~9 |
 | 3 | Feelings of inferiority | 10~23 |
-| 4 | Oversocialisation | 24~32 |
+| 4 | Oversocialization | 24~32 |
 | 5 | The power process | 33~37 |
 | 6 | Surrogate activities | 38~41 |
 | 7 | Autonomy | 42~44 |
@@ -41,9 +41,9 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support a
 | 13 | Some principles of history | 99~110 |
 | 14 | Industrial-technological society cannot be reformed | 111~113 |
 | 15 | Restriction of freedom is unavoidable in industrial society| 114~120 |
-| 16 | The ‘bad’ parts of technology cannot be separated from the ‘good’ | 121~124 |
+| 16 | The ‘bad’ parts of technology cannot be separated from the ‘good’ parts | 121~124 |
 | 17 | Technology is a more powerful social force than the aspiration for freedom | 125~135 |
-| 18 | Simpler social problems have been proved intractable | 136~139 |
+| 18 | Simpler social problems have proved intractable | 136~139 |
 | 19 | Revolution is easier than reform | 140~142 |
 | 20 | Control of human behavior | 143~160 |
 | 21 | Human race at a crossroads | 161~166 |
