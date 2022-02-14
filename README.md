@@ -1,6 +1,4 @@
 <div align="center">
-  <h1>Unabomber Manifesto</h1>
-  <br>
   <img src="assets/banners/mainbanner.jpg">
   <br>
 </div>
