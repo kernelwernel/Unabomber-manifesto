@@ -18,10 +18,9 @@
 \- *From [Wikipedia](https://en.wikipedia.org/wiki/Unabomber_Manifesto)*
 
 ## Disclaimer ⚠️
-I am not praising Ted Kaczynski nor do I support his actions. I do not support a human being who killed 3 innocent people while injuring 23 others. I'm only creating this repository because I admire his philosophy on technology. I'm also doing this for archival reasons and for accessibility to anyone wanting to read the manifesto.
+I am not praising Ted Kaczynski nor do I support his actions. I do not support someone who killed 3 innocent people while injuring 23 others. I'm only creating this repository because I admire his philosophy on technology. I'm also doing this for archival reasons and for accessibility to anyone wanting to read the manifesto.
 
 ## Table of contents 📖
-
 | Section number | Title | Paragraphs |
 | --- | --- | --- |
 | 1 | Introduction | 1~5 |
@@ -54,12 +53,11 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support a
 | 28 | Notes | N/A |
 
 
-## Prerequesites 🛠️
+## Compiling the tex file yourself 🛠️
+
+It's recommended to compile the `.tex` file yourself, since pdf files can be injected with malware. But if you're too lazy to compile it or if you're on windows, you can directly open `Manifesto.pdf` in the root directory of the repository. However, if you don't want to take any risks and compile the tex file, then make sure to download the following software:
+
 - Update your system with `sudo dnf/apt/pacman/yum update -y` depending on your distro (unless you're on windows, scrub)
-- Download Git | [link](https://git-scm.com/downloads)
-
-> It's recommended to compile the `.tex` file yourself (since .pdf files can be injected with malware). But if you're too lazy or if you're on windows, you can directly open the `Manifesto.pdf` in the root directory of the repository. However, if you don't want to take any risks then make sure to download the following software:
-
 - Download Perl (It should be already installed if you're using linux, their download page indicates if you have it installed so it's worth checking before skipping this part | [link](https://www.perl.org/get.html)
 - Download pip (It's not preinstalled in every distro, but it's most likely already available in yours) | [link](https://www.tecmint.com/install-pip-in-linux/)
 
@@ -79,11 +77,7 @@ If you want to compile the .tex file, do:
 # make
 ```
 
-If you don't want to compile it and just want to directly read the manifesto, you can simply do:
-```
-$ cd Unabomber-manifesto
-$ make open
-```
+If you don't want to compile it and just want to directly read the manifesto, you can access the pdf in the root directory.
 
 
 | Command | Info |
