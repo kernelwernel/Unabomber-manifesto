@@ -3,6 +3,7 @@
   <br>
 </div>
 
+
 ## Context 📑
 >Industrial Society and Its Future, widely called the Unabomber Manifesto, is a 35,000 word essay by Ted Kaczynski contending that the Industrial Revolution began a harmful process of technology destroying nature, while forcing humans to adapt to machines, and creating a sociopolitical order that suppresses human freedom and potential. The manifesto formed the ideological foundation of Kaczynski's 1978–1995 mail bomb campaign, designed to protect wilderness by hastening the collapse of industrial society.
 > 
@@ -17,8 +18,10 @@
 >The Labadie Collection of the University of Michigan houses a copy of Industrial Society and its Future, which has been translated into French, remains on college reading lists, and was updated in Kaczynski's 2016 Anti-Tech Revolution: Why and How, which defends his political philosophy in greater depth.
 \- *From [Wikipedia](https://en.wikipedia.org/wiki/Unabomber_Manifesto)*
 
+
 ## Disclaimer ⚠️
 I am not praising Ted Kaczynski nor do I support his actions. I do not support someone who killed 3 innocent people while injuring 23 others. I'm only creating this repository because I admire his philosophy on technology. I'm also doing this for archival reasons and for accessibility to anyone wanting to read the manifesto.
+
 
 ## Table of contents 📖
 | Section number | Title | Paragraphs |
@@ -50,16 +53,7 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support s
 | 25 | Two kinds of technology | 207~212 |
 | 26 | The danger of leftism | 213~230 |
 | 27 | Final note | 231~232 |
-| 28 | Notes | N/A |
-
-
-## Compiling the tex file yourself 🛠️
-
-It's recommended to compile the `.tex` file yourself, since pdf files can be injected with malware. But if you're too lazy to compile it or if you're on windows, you can directly open `Manifesto.pdf` in the root directory of the repository. However, if you don't want to take any risks and compile the tex file, then make sure to download the following software:
-
-- Update your system with `sudo dnf/apt/pacman/yum update -y` depending on your distro (unless you're on windows, scrub)
-- Download Perl (It should be already installed if you're using linux, their download page indicates if you have it installed so it's worth checking before skipping this part | [link](https://www.perl.org/get.html)
-- Download pip (It's not preinstalled in every distro, but it's most likely already available in yours) | [link](https://www.tecmint.com/install-pip-in-linux/)
+| 28 | Notes | |
 
 
 ## Download 📥
@@ -68,16 +62,21 @@ git clone https://github.com/Existential-nonce/Unabomber-manifesto
 ```
 
 
-## Build ⚙️
+## Compiling the tex file yourself 🛠️
+It's recommended to compile the `.tex` file yourself, since pdf files can be injected with malware. But if you're too lazy to compile it or if you're on windows, you can directly open `Manifesto.pdf` in the root directory of the repository. However, if you don't want to take any risks and compile the tex file, then make sure to download the following software:
 
-If you want to compile the .tex file, do:
+- Update your system with `sudo dnf/apt/pacman/yum update -y` depending on your distro (unless you're on windows, scrub)
+- Download Perl (It should be already installed if you're using linux, their download page indicates if you have it installed so it's worth checking before skipping this part | [link](https://www.perl.org/get.html)
+- Download pip (It's not preinstalled in every distro, but it's most likely already available in yours) | [link](https://www.tecmint.com/install-pip-in-linux/)
+
+After having all the above mentioned prerequesites, do:
 ```
 # chmod +x Unabomber-manifesto
 # cd Unabomber-manifesto
 # make
 ```
 
-If you don't want to compile it and just want to directly read the manifesto, you can access the pdf in the root directory.
+**NOTE:** If you don't want to compile it and just want to directly read the manifesto, you can directly access the pdf in the root directory.
 
 
 | Command | Info |
