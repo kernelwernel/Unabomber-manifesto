@@ -58,7 +58,7 @@ I am not praising Ted Kaczynski nor do I support his actions. I do not support s
 
 ## Download 📥
 ```bash
-git clone https://github.com/Existential-nonce/Unabomber-manifesto
+git clone https://github.com/Existential-Kernel/Unabomber-manifesto
 ```
 
 
