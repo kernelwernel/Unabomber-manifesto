@@ -20,7 +20,7 @@
 
 
 ## Disclaimer ⚠️
-I am not praising Ted Kaczynski nor do I support his actions. I do not support someone who killed 3 innocent people as well as injuring 23 others, while also attempting to bomb a passenger airplane. I'm only creating this repository because I admire his philosophy on technology. I'm also doing this for archival reasons and for accessibility to anyone wanting to read the manifesto.
+I am not praising Ted Kaczynski nor do I support his actions. I do not support a terrorist who killed 3 innocent people as well as injuring 23 others, while also attempting to bomb a passenger airplane. I'm only creating this repository because I admire his philosophy on technology. I'm also doing this for archival reasons and for accessibility to anyone wanting to read the manifesto.
 
 
 ## Table of contents 📖
